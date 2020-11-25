@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+.plugin-list-and-detail{
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.plugin-list {
+}
+
+.plugin-list li {
+    cursor: pointer;
+}
+
+.plugin-detail{
+    text-align: left;
+    width: 70%;
+    margin-left: 5%;
+    background-color: azure;
+}
+
+.selected {
+    color: blue;
+}
+
+.delete {
+    cursor: pointer;
+    color: red;
+    margin-left: 8px;
+}

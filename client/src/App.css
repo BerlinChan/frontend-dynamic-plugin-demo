@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.menu{
+  list-style: none;
+}
+
+.menu li{
+  display: inline-block;
+  cursor: pointer;
+  margin-right: 2rem;
+}
+
+.active{
+  font-weight: bold;
+  color: blue;
+}

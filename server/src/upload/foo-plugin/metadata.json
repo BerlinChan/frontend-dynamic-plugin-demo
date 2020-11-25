@@ -1,0 +1,9 @@
+{
+        "entry": "foo-bundle.js",
+        "name": "foo-plugin",
+        "order": 10,
+        "permissions": [
+            "admin"
+        ],
+        "title": "Foo"
+}

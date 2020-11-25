@@ -1,0 +1,9 @@
+{
+        "entry": "bar-bundle.js",
+        "name": "bar-plugin",
+        "order": 20,
+        "permissions": [
+            "admin"
+        ],
+        "title": "Bar"
+}
